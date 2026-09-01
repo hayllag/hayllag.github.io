@@ -1,5 +1,5 @@
 # Olá, sou a Haylla!
-Bem vindo ao meu portfólio.
+Seja bem vindo.
 
 # Sobre mim
 Estudante de sistemas de informação 👩🏻‍💻 
