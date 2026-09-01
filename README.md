@@ -5,12 +5,12 @@ Bem vindo ao meu portfólio.
 Estudante de sistemas de informação 👩🏻‍💻 
 
 # Formação
-Design gráfico - curso de 120 horas
-Inglês (intermediário)
+- Design gráfico - curso de 120 horas
+- Inglês (intermediário)
 
 # Projetos
 https://github.com.hayllag/calculadora
 
 # Contato
-Email: hayllaramos00@gmail.com
-LinkedIn: /in/haylla-ramos
+- Email: hayllaramos00@gmail.com
+- LinkedIn: /in/haylla-ramos
